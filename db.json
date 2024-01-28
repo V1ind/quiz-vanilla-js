@@ -1,0 +1,113 @@
+{
+  "questions": [
+    {
+      "question": "Which country has the highest population density?",
+      "answers": [
+        {
+          "id": 1,
+          "correct": true,
+          "label": "Tokyo"
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "label": "Delhi"
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "label": "Yerevan"
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "label": "Beijing"
+        }
+      ]
+    },
+    {
+      "question": "The term 'graffiti' comes from the Italian word 'graffiato,' which means?",
+      "answers": [
+        {
+          "id": 1,
+          "correct": true,
+          "label": "Wall drawings"
+        },
+        { "id": 2, "correct": false, "label": "Scratches" },
+        {
+          "id": 3,
+          "correct": false,
+          "label": "Vandalism"
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "label": "Gang"
+        }
+      ]
+    },
+    {
+      "question": "Which U.S. state has a flag featuring a bear?",
+      "answers": [
+        {
+          "id": 1,
+          "correct": false,
+          "label": "Oklahoma"
+        },
+        { "id": 2, "correct": false, "label": "Michigan" },
+        {
+          "id": 3,
+          "correct": true,
+          "label": "California"
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "label": "Hawaii"
+        }
+      ]
+    },
+    {
+      "question": "Which of these animals does NOT belong to the Chinese Zodiac?",
+      "answers": [
+        {
+          "id": 1,
+          "correct": false,
+          "label": "Rooster"
+        },
+        { "id": 2, "correct": false, "label": "Monkey" },
+        {
+          "id": 3,
+          "correct": true,
+          "label": "Elephant"
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "label": "Pig"
+        }
+      ]
+    },
+    {
+      "question": "Who voices the character Lightning McQueen in the movie 'Cars'?",
+      "answers": [
+        {
+          "id": 1,
+          "correct": false,
+          "label": "Tom Hanks"
+        },
+        { "id": 2, "correct": true, "label": "Owen Wilson" },
+        {
+          "id": 3,
+          "correct": false,
+          "label": "Ben Stiller"
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "label": "Matthew McConaughey"
+        }
+      ]
+    }
+  ]
+}

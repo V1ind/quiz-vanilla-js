@@ -1,4 +1,5 @@
-### Quiz App - Vanilla js
+# Quiz App - Vanilla js
+[Demo](https://v1ind.github.io/quiz-vanilla-js/)
 
 ## How to run?
 
